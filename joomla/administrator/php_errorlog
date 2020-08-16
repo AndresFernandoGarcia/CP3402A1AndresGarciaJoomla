@@ -1,0 +1,1 @@
+[16-Aug-2020 07:59:33 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/customer/www/andrewg1.sgedu.site/public_html/joomla/administrator/components/com_virtuemart/views/orderstatus/tmpl/default.php on line 140
